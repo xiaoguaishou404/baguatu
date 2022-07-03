@@ -3,7 +3,7 @@ let style =document.querySelector('#style')
 
 let string = `
 /*
-    你好，我是阿良
+    你好，我叫阿良
     我是web前端开发
     接下来，我要展示如何制作一个太极图
     首先我要准备一个div
